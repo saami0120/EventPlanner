@@ -10,6 +10,8 @@ This project aims to develop a user-friendly website that enables clients to eff
 
 3. **Workshops and Seminars:** Educational institutions or trainers can utilize the website to manage smaller events, ensuring they have all necessary amenities while keeping within budget constraints.
 
+Deployment Link : https://saami0120.github.io/EventPlanner/
+
 -------------------------
 ATTACHING SCREENSHOTS
 -------------------------
